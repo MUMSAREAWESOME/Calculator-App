@@ -1,4 +1,4 @@
-#Calculator App#
+#Calculator App
 
 This is a calculator app that will be able to use some formulas (e.g. quadratic).
 
