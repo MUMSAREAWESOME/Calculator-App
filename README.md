@@ -28,6 +28,6 @@ g++ src/main.cc -o main.exe
 
 This probably won't get a GUI, but maybe I'll make a TUI for it... Don't get your hopes up thought.
 
-### As always, with love from me...
-### ~MWAH
-### -MUMSAREAWESOME
+As always, with love from me...
+~MWAH
+-MUMSAREAWESOME
