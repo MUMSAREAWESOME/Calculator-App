@@ -269,7 +269,7 @@ void index(Calculator& calc) {
         return;
     }
     double ans {calc.calcIndex(a, b)};
-    std::cout << "Answer: " << ans;
+    std::cout << "Answer: " << ans << '\n';
     calc.lastAnswer = ans;
 }
 
